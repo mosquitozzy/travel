@@ -1,0 +1,153 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [
+            {
+                "id": "001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1902/f2/f2e0213052717f7ca3.water.jpg_r_800x800_82f2209d.jpg"
+            },
+            {
+                "id": "002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1905/71/716ed1ae84b2141ca3.img.jpg_r_800x800_b6067d7f.jpg"
+            },
+            {
+                "id": "003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1911/81/8114149aaf39ac63a3.water.jpg_r_800x800_9f460918.jpg"
+            }
+        ],
+        "iconsList": [
+            {
+                "id": "001",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "iconDesc": "景点门票"
+            },
+            {
+                "id": "002",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                "iconDesc": "一日游"
+            },
+            {
+                "id": "003",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png",
+                "iconDesc": "踏青赏花"
+            },
+            {
+                "id": "004",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                "iconDesc": "主题乐园"
+            },
+            {
+                "id": "005",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                "iconDesc": "深圳必游"
+            },
+            {
+                "id": "006",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/27/dac2bcf9added702.png",
+                "iconDesc": "海滨海岛"
+            },
+            {
+                "id": "007",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                "iconDesc": "泡温泉"
+            },
+            {
+                "id": "008",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+                "iconDesc": "城市观光"
+            },
+            {
+                "id": "009",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+                "iconDesc": "高空观景"
+            },
+            {
+                "id": "010",
+                "iconUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+                "iconDesc": "自然风光"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "0001",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg",
+                "itemInfoTitle": "深圳野生动物园",
+                "itemInfoComment": "25139条评论",
+                "itemInfoPrice": "199.8",
+                "itemInfoRegion": "南山区"
+            },
+            {
+                "id": "0002",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/201307/24/bba9e719d5ce1620c8d65eac.jpg_200x200_76792dbf.jpg",
+                "itemInfoTitle": "大鹏古城",
+                "itemInfoComment": "183条评论",
+                "itemInfoPrice": "399",
+                "itemInfoRegion": "龙岗区"
+            },
+            {
+                "id": "0003",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/201307/11/859ef60374b05eaac8d65eac.jpg_200x200_4bdf814f.jpg",
+                "itemInfoTitle": "杨梅坑",
+                "itemInfoComment": "405条评论",
+                "itemInfoPrice": "96",
+                "itemInfoRegion": "龙岗区"
+            },
+            {
+                "id": "0004",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/1806/e7/e74b5f08f7c7ee9fa3.water.jpg_200x200_451e3e02.jpg",
+                "itemInfoTitle": "西冲",
+                "itemInfoComment": "1701条评论",
+                "itemInfoPrice": "295",
+                "itemInfoRegion": "龙岗区"
+            },
+            {
+                "id": "0005",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/1611/de/ded011f10ed4bf16a3.water.jpg_200x200_103c1a5c.jpg",
+                "itemInfoTitle": "西冲情人岛",
+                "itemInfoComment": "289条评论",
+                "itemInfoPrice": "295",
+                "itemInfoRegion": "深圳"
+            },
+            {
+                "id": "0006",
+                "imgSrc": "http://img1.qunarzz.com/sight/p0/1504/25/2567e9dc989e2eb6.water.jpg_200x200_caea32c8.jpg",
+                "itemInfoTitle": "金色海岸游艇",
+                "itemInfoComment": "1321条评论",
+                "itemInfoPrice": "90",
+                "itemInfoRegion": "盐田区"
+            }
+        ],
+        "weekendItemList": [
+            {
+                "id": "0001",
+                "imgSrc": "http://img1.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+                "weekendItemName": "深圳周边游",
+                "weekendItemDesc": "远离城市拥堵，去周边开启清新假期吧。"
+            },
+            {
+                "id": "0002",
+                "imgSrc": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+                "weekendItemName": "清远周边逛",
+                "weekendItemDesc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+            },
+            {
+                "id": "0003",
+                "imgSrc": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+                "weekendItemName": "浮在海上的绿洲",
+                "weekendItemDesc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+            },
+            {
+                "id": "0004",
+                "imgSrc": "http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+                "weekendItemName": "深圳必打卡",
+                "weekendItemDesc": "来到深圳，你需要来这里签到"
+            },
+            {
+                "id": "0005",
+                "imgSrc": "http://img1.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+                "weekendItemName": "欢乐长隆",
+                "weekendItemDesc": "世界欢乐汇聚长隆，这里拥有多个大型游乐设备和精彩的演出，和小伙伴们一起感受刺激的体验"
+            }
+        ]
+    }
+}
